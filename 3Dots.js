@@ -13,4 +13,4 @@ const sochib = 250;
 const takaPoisa = [460, 333, 888, 9949, 45435];
 const maximum = Math.max(business, minster, sochib);
 const maximum2 = Math.max(...takaPoisa);
-console.log(maximum);
+console.log(maximum2);
